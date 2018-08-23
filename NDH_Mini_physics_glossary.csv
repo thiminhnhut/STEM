@@ -1,0 +1,904 @@
+en	vi	description
+arithmetics	môn số học	əˈrɪθmətɪk
+algebra	môn đại số	ˈældʒɪbrə
+geometry	môn hình học	dʒiˈɑːmətri
+calculus	môn giải tích	ˈkælkjələs
+analytical geometry	môn hình học giải tích	ˌænəˈlɪtɪkəl dʒiˈɑːmətri
+trigonometry	môn lượng giác	ˌtrɪɡəˈnɒmətri
+natural number	số tự nhiên	ˈnætʃərəl ˈnʌmbər
+integer	số nguyên	ˈɪntədʒər
+real number	số thực	riːəl ˈnʌmbər
+complex number	số phức (số ảo)	ˈkɑːmpleks ˈnʌmbər
+fraction	phân số	ˈfrækʃən
+ratio	tỉ số	ˈreɪʃiˌoʊ
+mixed number	hỗn số	ˈmɪkst ˈnʌmbər
+theorem	định lý	ˈθɪrəm
+plus, minus	dấu cộng, dấu trừ	ˈpləs, ˈmaɪnəs
+add … to …	cộng … vào …	ˈæd … tuː …
+subtract … from …	trừ … ra …	səbˈtrækt … frʌm …
+addition, subtraction	phép cộng / phép trừ	əˈdɪʃən , səbˈtrækʃən
+multiply … by …	nhân … với …	ˈmʌltɪplaɪ … baɪ
+multiplication	phép nhân	ˌmʌltɪplɪˈkeɪʃən
+product	tích số	ˈprɑːdəkt 
+divide … by …	chia … cho …	 dɪˈvaɪd … baɪ …
+division	phép chia	dɪˈvɪʒən
+quotient	thương số	ˈkwoʊʃnt
+inverse	số nghịch đảo	ˌɪnˈvɝːs
+proportion	tỉ lệ	prəˈpɔːrʃən
+(directly) proportional to	tỉ lệ thuận với	dəˈrektli prəˈpɔrʃənəl tuː
+inversely proportional to	tỉ lệ nghịch với	ˌɪnˈvɝːsli prəˈpɔrʃənəl tuː
+power	lũy thừa, số mũ	ˈpaʊər
+factorial	giai thừa	fækˈtɔːriəl
+equal to	bằng với	ˈiːkwəl tuː
+equal	bằng với	ˈiːkwəl
+equation	phương trình	ɪˈkwɛɪʒnən
+inequation	bất phương trình	ˌɪnɪˈkwɛɪʒən
+equality	đẳng thức	ɪˈkwɑːlɪti
+inequality	bất đẳng thức	ˌɪnɪˈkwɑːlɪti
+vary	biến thiên, thay đổi	ˈvɛri
+variable	biến số	ˈvɛriːəbəl
+variable	có thể thay đổi	ˈvɛriːəbəl
+constant	hằng số	ˈkɑːnstənt
+parameter	tham số	pəˈræmətər
+logarithm	logarit	ˈlɑːɡəˌrɪðəm
+base	cơ số	ˈbeɪs
+natural logarithm	(n): logarit tự nhiên	ˈnætʃərəl ˈlɑːɡəˌrɪðəm
+function	hàm số	ˈfʌŋkʃən
+limit	giới hạn	ˈlɪmɪt
+monotonic	đơn điệu	məˈnɑːtənɪk
+monotonically increasing	đồng biến	məˈnɑːtənɪkli ɪnˈkrisɪŋ
+monotonically decreasing	nghịch biến	məˈnɑːtənɪkli dɪˈkrisɪŋ
+slope (of the line)	hệ số góc	sloʊp əv ðə ˈlaɪn
+graph	đồ thị	ˈɡræf
+origin	gốc tọa độ	ˈɔːrɪdʒɪn
+axis (pl. axes)	trục tọa độ	ˈæksɪs, ˈæksɪz
+extremum (pl. extrema)	cực trị	ɪkˈstri məm ; ɪkˈstri mə
+derivative	đạo hàm	dəˈrɪvətɪv
+second derivative	đạo hàm bậc hai	ˈsekənd dəˈrɪvətɪv
+differentiate	lấy đạo hàm	ˌdɪfəˈrenʃiˌeɪt
+differentiation	phép lấy đạo hàm	ˌdɪfəˌrenʃiˈeɪʃən
+differential equation	phương trình vi phân	ˌdɪfəˈrentʃəl ɪˈkweɪʒən
+integrate	lấy tích phân	ˈɪntəˌɡret
+integration	phép tính tích phân	ˌɪntɪˈɡreɪʃən
+integral	tích phân	ˈɪntɪɡrəl
+antiderivative	nguyên hàm	ˌæntidəˈrɪvətɪv
+upper, lower limit	cận trên / cận dưới	ˈʌpər, ˈloʊər ˈlɪmɪt
+integrand	hàm dưới dấu tích phân	ˈɪntɪɡrænd
+infinitesimal	vi phân	ˌɪnˌfɪnɪˈtesɪməl
+definite integral	tích phân xác định	ˈdefənɪt ˈɪntɪɡrəl
+indefinite integral	tích phân bất định	ˌɪnˈdefɪnɪt ˈɪntɪɡrəl
+double integral	tích phân bội hai	ˈdʌbəl ˈɪntɪɡrəl
+triple integral	tích phân bội ba	ˈtrɪpəl ˈɪntɪɡrəl
+surface integral	tích phân mặt	ˈsɝːfɪs ˈɪntɪɡrəl
+line integral	tích phân đường	ˈlaɪn ˈɪntɪɡrəl
+area under the curve	diện tích giới hạn bởi đồ thị	ˈeriə ˈʌndər ðə ˈkɝːv
+straight line	đường thẳng	streɪt laɪn
+linear	tuyến tính	ˈlɪnɪə
+curve	đường cong	kɜːv
+curvature	độ cong	ˈkɜːvətʃər
+center (of a circle)	tâm	ˈsentər əv ə ˈsɜːkəl
+radius	bán kính	ˈreɪdɪəs
+diameter	đường kính	daɪˈæmɪtə
+arc	cung	ɑːk
+circle	đường tròn, hình tròn	ˈsɜːkəl
+circular	có dạng tròn	ˈsɜːkjʊlə
+tangent	tiếp tuyến	ˈtændʒənt
+perpendicular to	vuông góc với	ˌpɜːpənˈdɪkjʊlə tə
+ellipse	đường elip	ɪˈlɪps
+elliptic	có dạng elip	ɪˈlɪptɪk
+parabola	đường parabol	pəˈræbələ
+parabolic	có dạng parabol	ˌpærəˈbɒlɪk
+hyperbola	đường hyperbol	haɪˈpɜːbələ
+hyperbolic	có dạng hyperbol	ˌhaɪpəˈbɒlɪk
+eccentric	tâm sai	ekˈsentrɪk
+focus  foci	ˈfəʊkəs/ (pl. tiêu điểm	ˈfəʊkəs//ˈfəʊsaɪ
+parallel to	song song với	ˈpærəlel tə
+intersect	giao, cắt	ˌɪntəˈsekt
+intersection	giao điểm	ˌɪntəˈsekʃən
+angle	góc	ˈæŋɡəl
+acute angle	góc nhọn	əˈkjuːt ˈæŋɡəl
+right angle	góc vuông	raɪt ˈæŋɡəl
+obtuse angle	góc tù	əbˈtjuːs ˈæŋɡəl
+solid angle	góc đặc	ˈsɒlɪd ˈæŋɡəl
+vertex (pl. vertices)	đỉnh	ˈvɜːteks ; ˈvɜːtɪsiːz
+side	cạnh	saɪd
+triangle	hình tam giác	ˈtraɪæŋɡəl
+triangular	có dạng tam giác	traɪˈæŋɡjʊlə
+equilateral triangle	tam giác đều	ˌiːkwɪˈlætərəl ˈtraɪæŋɡəl
+isosceles triangle	tam giác cân	aɪˈsɒsəliːz ˈtraɪæŋɡəl
+right triangle (at A)	tam giác vuông	raɪt ˈtraɪæŋɡəl
+adjacent	liền kề, kế cận;  cạnh kề	əˈdʒeɪsnt
+secant	cát tuyến	ˈsiːkənt
+opposite	đối diện;  cạnh đối	ˈɒpəzɪt
+hypotenuse	cạnh huyền	ˌhaɪˈpɒtənjuːz
+quadrangle	tứ giác	ˈkwɒdræŋɡəl
+diagonal	chéo;  đường chéo	daɪˈæɡənəl
+rectangle	hình chữ nhật	ˈrektæŋɡəl
+square	hình vuông	skweə
+parallelogram	hình bình hành	ˌpærəˈleləɡræm
+rhombus	hình thoi	ˈrɒmbəs
+rhombic	có dạng hình thoi	ˈrɒmbɪk
+trapezoid	hình thang	ˈtræpɪzɔɪd
+annulus	hình vành khăn	ˈænjʊləs
+vector	vectơ	ˈvektə
+tail	gốc  của vectơ	teɪl
+head	đỉnh  của vectơ	hed
+direction	hướng của vectơ	dɪˈrekʃən
+vertical	thẳng đứng	ˈvɝtɪkəl
+horizontal	nằm ngang	ˌhɔrɪˈzɑntəl
+component	thành phần (của vectơ)	kəmˈpəʊnənt
+magnitude	độ lớn	ˈmæɡnɪtjuːd
+dot product	tích vô hướng	dɒt ˈprɒdʌkt
+cross product	tích hữu hướng	krɒs ˈprɒdʌkt
+cube	hình lập phương	kjuːb
+cubic	có dạng lập phương	ˈkjuːbɪk
+sphere	hình cầu	sfɪə
+spherical	có dạng hình cầu	ˈsferɪkəl
+cylinder	hình trụ tròn xoay	ˈsɪlɪndə
+cylindrical	có dạng hình trụ tròn xoay	sɪˈlɪndrɪkəl
+cone	hình nón	kəʊn
+conical	có dạng hình nón	ˈkɒnɪkəl
+sine	hàm sin	saɪn
+cosine	hàm cos	ˈkəʊsaɪn
+tangent	hàm tan	ˈtændʒənt
+cotangent	hàm cotan	ˈkəʊˈtændʒənt
+inverse sine	hàm arcsin	ɪnˈvɜːs saɪn
+inverse cosine	hàm arccos	ɪnˈvɜːs ˈkəʊsaɪn
+inverse tangent	hàm arctan	ɪnˈvɜːs ˈtændʒənt
+kinematics	động học	ˌkaɪnəˈmætɪks
+kinematic	động học	ˌkaɪnəˈmætɪk
+reference frame	hệ quy chiếu	ˈrefrəns freɪm
+coordinate	tọa độ	ˌkəʊˈɔːdɪneɪt
+coordinate system	hệ toạ độ	ˌkəʊˈɔːdɪneɪt ˈsɪstəm
+Cartesian coordinate	tọa độ Đềcác	kɑːˈtiːzjən ˌkəʊˈɔːdɪneɪt
+polar coordinate	tọa độ cực	ˈpəʊlə ˌkəʊˈɔːdɪneɪt
+cylindrical coordinate	tọa độ trụ	sɪˈlɪndrɪkəl ˌkəʊˈɔːdɪneɪt
+spherical coordinate	tọa độ cầu	ˈsferɪkəl ˌkəʊˈɔːdɪneɪt
+point mass	chất điểm	pɔɪnt mæs
+translational motion	chuyển động tịnh tiến	trænsˈleɪʃnəl ˈməʊʃən
+trajectory	quỹ đạo	trəˈdʒektəri
+linear motion	chuyển động thẳng	ˈlɪnɪə ˈməʊʃən
+uniform linear motion	chuyển động thẳng đều	ˈjuːnɪfɔːm ˈlɪnɪə ˈməʊʃən
+circular motion	chuyển động tròn	ˈsɜːkjʊlə ˈməʊʃən
+uniform circular motion	chuyển động tròn đều	ˈjuːnɪfɔːm ˈsɜːkjʊlə ˈməʊʃən
+displacement	độ dời	dɪsˈpleɪsmənt
+distance	khoảng cách	ˈdɪstəns
+meter	(đơn vị) met	ˈmiːtɚ
+second	(đơn vị) giây	ˈsɛkənd
+angular displacement	độ dời góc	ˈæŋɡjʊlə dɪsˈpleɪsmənt
+speed	tốc độ	spiːd
+angular speed	tốc độ góc	ˈæŋɡjʊlə spiːd
+velocity	vận tốc	vəˈlɒsɪti
+angular velocity	vận tốc góc	ˈæŋɡjʊlə vəˈlɒsɪti
+acceleration	gia tốc	əkˌseləˈreɪʃən
+angular acceleration	gia tốc góc	ˈæŋɡjʊlər əkˌseləˈreɪʃən
+average speed/velocity	tốc độ/vận tốc trung bình	ˈævərɪdʒ spiːd - vəˈlɒsɪti
+average acceleration	gia tốc trung bình	ˈævərɪdʒ əkˌseləˈreɪʃən
+instantaneous speed/velocity	tốc độ/vận tốc tức thời	ˌɪnstənˈteɪnɪəs spiːd - vəˈlɒsɪti
+centripetal acceleration	gia tốc hứơng tâm	senˈtrɪpɪtəl əkˌseləˈreɪʃən
+tangential acceleration	gia tốc tiếp tuyến	tænˈdʒenʃəl əkˌseləˈreɪʃən
+free fall	sự rơi tự do	friː fɔːl
+dynamics	động lực học	daɪˈnæmɪks
+dynamic	động lực học	daɪˈnæmɪk
+force	lực	ˈfɔːrs
+exert	tác dụng (lực)	ɪɡˈzɝt
+deform	biến dạng	ˌdiˈfɔːrm
+addition of force	phép tổng hợp lực	əˈdɪʃən əv ˈfɔːrs
+resolution of force	phép phân tích lực	ˌrezəˈluːʃən əv ˈfɔːrs
+free-body diagram	giản đồ lực	friː ˈbɑːdi ˈdaɪəˌɡræm
+net force	hợp lực	ˈnet ˈfɔːrs
+gravitational force	lực hấp dẫn	ˌɡrævɪˈteɪʃənəl ˈfɔːrs
+law of universal gravitation	định luật vạn vật hấp dẫn	ˈlɑː əv ˌjuːnɪˈvɝːsəl ˌɡrævɪˈteɪʃən
+gravity	trọng lực	ˈɡrævɪti
+weight	trọng lượng	ˈweɪt
+weightless	không trọng lượng	ˈweɪtləs
+weightlessness	trạng thái không trọng lượng	ˈweɪtləsnəs
+mass	khối lượng	ˈmæs
+inertia	quán tính	ˌɪˈnɝːʃə
+friction force	lực ma sát	ˈfrɪkʃən ˈfɔːrs
+coefficient of friction	hệ số ma sát	ˌkoʊɪˈfɪʃnt əv ˈfrɪkʃən
+static friction	lực ma sát nghỉ	ˈstætɪk ˈfrɪkʃən
+kinetic friction	lực ma sát động	kɪˈnetɪk ˈfrɪkʃən
+rolling friction	lực ma sát lăn	ˈroʊlɪŋ ˈfrɪkʃən
+normal force	phản lực	ˈnɔːrməl ˈfɔːrs
+tension	lực căng (dây)	ˈtenʃən
+elastic force	lực đàn hồi	əˈlæstɪk ˈfɔːrs
+spring	lò xo	ˈsprɪŋ
+spring (stiffness) constant	độ cứng của lò xo	ˈsprɪŋ ˈstɪfnəs ˈkɑːnstənt
+centripetal force	lực hướng tâm	senˈtrɪpɪtəl ˈfɔːrs
+centrifugal force	lực ly tâm	senˈtrɪfjɪɡəl ˈfɔːrs
+inclined plane	mặt phẳng nghiêng	ˌɪnˈklaɪnd ˈpleɪn
+pulley	ròng rọc	ˈpʊli
+projectile motion	chuyển động của đạn tử (ném ngang, ném xiên)	prəˈdʒektəl ˈmoʊʃən
+range	tầm xa	ˈreɪndʒ
+maximum height	độ cao tối đa	ˈmæksəməm ˈhaɪt
+rigid body	vật rắn	ˈrɪdʒɪd ˈbɑːdi
+solid object	vật rắn	ˈsɑːlɪd ˈɑːbdʒɪkt
+sphere	hình cầu	ˈsfɪr
+hollow sphere	hình cầu rỗng	ˈhɑloʊ ˈsfɪr
+cylinder	hình trụ đặc	ˈsɪlɪndɚ
+hoop	hình trụ rỗng	ˈhuːp
+disk	hình đĩa	ˈdɪsk
+rod	thanh thẳng	ˈrɑd
+center of mass	khối tâm	ˈsentər əv ˈmæs
+center of gravity	trọng tâm	ˈsentər əv ˈɡrævɪti
+translational motion	chuyển động tịnh tiến	trænsˈleɪʃnəl ˈməʊʃən
+rotational motion	chuyển động quay	roʊˈteɪʃənəl ˈmoʊʃən
+rotate	quay	roʊˈteɪt
+spin	quay	ˈspɪn
+torque	mômen lực	ˈtɔːrk
+clockwise	cùng chiều kim đồng hồ	ˈklɑːˌkwaɪz
+counter-clockwise	ngược chiều kim đồng hồ	ˌkæʊntəˈklɑːkwaɪz
+angular momentum	mômen động lượng	ˈæŋɡjələr moˈmentəm
+moment of inertia	mômen quán tính	ˈmoʊmənt əv ˌɪˈnɝːʃə
+rotational inertia	quán tính quay	roʊˈteɪʃənəl ˌɪˈnɝːʃə
+balance	làm cho cân bằng	ˈbæləns
+balance	cái cân đòn	ˈbæləns
+lever	đòn bẩy	ˈlevər
+lever arm	cánh tay đòn	ˈlevər ˈɑːrm
+fulcrum	điểm tựa	ˈfʊlkrəm
+equilibrium	trạng thái cân bằng	ˌikwəˈlɪbriəm
+static equilibrium	cân bằng tĩnh	ˈstætɪk ˌikwəˈlɪbriəm
+base	mặt chân đế	ˈbeɪs
+stable	ổn định	ˈsteɪbəl
+stabilize	làm cho ổn định	ˈsteɪbəˌlaɪz
+stable equilibrium	cân bằng bền	ˈsteɪbəl ˌikwəˈlɪbriəm
+unstable equilibrium	cân bằng không bền	ʌnˈsteɪbəl ˌikwəˈlɪbriəm
+neutral equilibrium	cân bằng phiếm định	ˈnuːtrəl ˌikwəˈlɪbriəm
+(force) couple	ngẫu lực	ˈfɔːrs ˈkʌpəl
+precess	tiến động	priˈses
+precession	sự tiến động	priˈseʃən
+work	công	ˈwɝːk
+power	công suất	ˈpaʊər
+mechanical energy	cơ năng	məˈkænɪkəl ˈenərdʒi
+kinetic energy	động năng	kɪˈnetɪk ˈenərdʒi
+potential energy	thế năng	pəˈtenʃəl ˈenərdʒi
+gravitational potential energy	thế năng trọng trường	ˌɡrævɪˈteɪʃənəl pəˈtenʃəl ˈenərdʒi
+elastic potential energy	thế năng đàn hồi	əˈlæstɪk pəˈtenʃəl ˈenərdʒi
+momentum	động lượng	moˈmentəm
+impulse	xung lực	ˈɪmpʌls
+collide	va chạm	kəˈlaɪd
+collision	sự va chạm	kəˈlɪʒən
+elastic collision	va chạm đàn hồi	əˈlæstɪk kəˈlɪʒən
+inelastic collision	va chạm không đàn hồi	ˌɪnəˈlæstɪk kəˈlɪʒən
+head-on collision	va chạm trực diện	ˈhed ɒn kəˈlɪʒən
+off-center collision	va chạm không xuyên tâm	ˈɒf ˈsentər kəˈlɪʒən
+isolated system	hệ cô lập	ˈaɪsəˌletɪd ˈsɪstəm
+explode	nổ	ɪkˈsploʊd
+explosion	sự nổ	ɪkˈsploʊʒən
+internal force	nội lực	ˌɪnˈtɝːnəl ˈfɔːrs
+external force	ngoại lực	ɪkˈstɝːnəl ˈfɔːrs
+conserve	bảo toàn	kənˈsɝːv
+conservation	sự bảo toàn	ˌkɑːnsərˈveɪʃən
+conservation law	định luật bảo toàn	ˌkɑːnsərˈveɪʃən lɔː
+conservation of momentum	sự bảo toàn động lượng	ˌkɑːnsərˈveɪʃən əv moˈmentəm
+conservation of energy	sự bảo toàn năng lượng	ˌkɑːnsərˈveɪʃən əv ˈenərdʒi
+conservative force	lực bảo toàn (lực thế)	kənˈsɝːvətɪv ˈfɔːrs
+work-kinetic energy theorem	định lý động năng	ˈwɝːk  kɪˈnetɪk ˈenərdʒi ˈθɪrəm
+oscillate	dao động	ˈɑsəˌleɪt
+vibrate	dao động	ˈvaɪbreɪt
+oscillation	sự dao động	ˌɑsəˈleɪʃən
+vibration	sự dao động	vaɪˈbreɪʃən
+oscillator	vật dao động, dao động tử	ˈɑsəˌleɪtər
+oscilloscope	dao động ký điện tử	ˌɔˈsɪləˌskoʊp
+equation of oscillation	phương trình dao động	ɪˈkweɪʒən əv ˌɑsəˈleɪʃən
+periodic oscillation	dao động tuần hoàn	ˌpɪriˈɑdɪk ˌɑsəˈleɪʃən
+harmonic oscillation	dao động điều hòa	hɑrˈmɑnɪk ˌɑsəˈleɪʃən
+harmonic oscillator	dao động tử điều hòa	hɑrˈmɑnɪk ˈɑsəˌleɪtər
+free oscillation	ˌɑsəˈleɪʃən/ (n): dao động tự do	fri: ˌɑsəˈleɪʃən
+damped oscillation	dao động tắt dần	dæmpt ˌɑsəˈleɪʃən
+forced oscillation	dao động cưỡng bức	fɔrst ˌɑsəˈleɪʃən
+amplitude	biên độ	ˈæmplɪˌtud
+period	chu kỳ	ˈpɪriəd
+frequency	tần số	ˈfrikwənsi
+angular frequency	tần số góc	ˈæŋgjələr ˈfrikwənsi
+phase	pha	feɪz
+in phase	cùng pha	ɪn feɪz
+out of phase	lệch pha	aʊt əv feɪz
+pendulum	con lắc	ˈpɛnʤələm
+simple pendulum	con lắc đơn	ˈpɛnʤələm
+spring-mass pendulum	con lắc lò xo	sprɪŋ-mæs ˈpɛnʤələm
+resonate	cộng hưởng	ˈrɛzəˌneɪt
+resonance	hiện tượng cộng hưởng	ˈrɛzənəns
+resonance frequency	tần số cộng hưởng	 ˈrɛzənəns ˈfrikwənsi 
+mechanical wave	sóng cơ	məˈkænɪkəl weɪv
+transverse wave	sóng ngang	trænzˈvɜrs weɪv
+longitudinal wave	sóng dọc	ˌlɑnʤɪˈtudɪnəl weɪv
+wavelength	bước sóng	ˈweɪvˌlɛŋkθ
+wavefront	mặt đầu sóng	ˈweɪvfrʌnt
+crest	đỉnh sóng	ˈkrɛst
+trough	đáy sóng	ˈtrɔf
+coherent waves	các sóng kết hợp	koˈhɪrənt ˈweɪv
+interfere	giao thoa	ˌɪntɚˈfɪr
+interference	sự giao thoa	ˌɪntɚˈfɪrəns
+standing wave	sóng dừng	ˈstændɪŋ weɪv
+node	nút sóng	noʊd
+anti-node	bụng sóng	ˈænti-noʊd
+wave packet	bó sóng	weɪv ˈpækət
+reflect	phản xạ	rəˈflɛkt
+reflection	sự phản xạ	rəˈflɛkʃən
+refract	khúc xạ	ˌriˈfrækt
+refraction	sự khúc xạ	ˌriˈfrækʃən
+diffract	nhiễu xạ	dɪˈfrækt
+diffraction	sự nhiễu xạ	dɪˈfrækʃən
+acoustics	âm học	əˈkustɪks
+sound wave	sóng âm	saʊnd weɪv
+infrasound	hạ âm	ˈɪnfrəsaʊnd
+ultrasound	siêu âm	ˌʌltrəˈsaʊnd
+pitch	độ cao của âm	pɪʧ
+loudness	độ to của âm	ˈlaʊdnəs
+sound intensity	cường độ âm	saʊnd ɪnˈtɛnsɪti
+sound intensity level	mức cường độ âm	saʊnd ɪnˈtɛnsəti ˈlɛvəl
+threshold of hearing	ngưỡng nghe	ˈθrɛˌʃoʊld əv ˈhirɪŋ
+threshold of pain	ngưỡng đau	ˈθrɛˌʃoʊld əv peɪn
+beat	phách	bit
+timbre	âm sắc	ˈtɪmbər
+atom	nguyên tử	ˈætəm
+molecule	phân tử	ˈmɑləˌkjul
+molecular physics	vật lý phân tử	məˈlɛkjələr ˈfɪzɪks
+thermal physics	nhiệt học	ˈθɜrməl ˈfɪzɪks
+thermodynamics	nhiệt động lực học	ˈθɜrmoʊ daɪˈnæmɪks
+Brownian motion	chuyển động Brown	ˈbraʊnɪən ˈmoʊʃən
+thermal agitation	chuyển động nhiệt	ˈθɜrməl ˌæʤɪˈteɪʃən
+Avogadro number	số Avogadro	ˌɑːvəˈɡɑːdroʊ ˈnʌmbər
+mole	mol (đơn vị lượng chất)	moʊl
+molar mass	khối lượng mol	moʊlər mæs
+temperature	nhiệt độ	ˈtɛmprəʧər
+absolute temperature	nhiệt độ tuyệt đối	ˈæbsəˌlut ˈtɛmprəʧər
+temperature scale	thang nhiệt độ	ˈtɛmprəʧər skeɪl
+Celsius scale	nhiệt giai Celsius	ˈsɛlsiəs skeɪl
+degree centigrade	độ bách phân	dɪˈgri ˈsɛntɪˌgreɪd
+Fahrenheit scale	nhiệt giai Fahrenheit	ˈfɛrənˌhaɪt skeɪl
+Kelvin scale	nhiệt giai Kelvin	ˈkɛlvɪn skeɪl
+thermometer	nhiệt kế	θərˈmɑmɪtər
+pressure	áp suất	ˈprɛʃər
+barometer	áp kế	bəˈrɑmɪtər
+manometer	áp kế	məˈnɑmɪtər
+pressure gauge	dụng cụ đo áp suất	ˈprɛʃər geɪʤ
+atmosphere	khí quyển	ˈætməˌsfɪr
+atmospheric pressure	áp suất khí quyển	ˌætməˈsfɛrɪk ˈprɛʃər
+volume	thể tích	ˈvɑljum
+standard conditions (standard temperature and pressure  STP)	điều kiện tiêu chuẩn	ˈstændərd kənˈdɪʃənz
+kinetic theory	thuyết động học phân tử	kəˈnɛtɪk ˈθɪri
+speed distribution	phân bố tốc độ	spid ˌdɪstrɪˈbjuʃən
+root-mean-square speed	tốc độ căn trung bình bình phương	rut-min-skwɛr spid
+most probable speed	tốc độ có xác suất cực đại	moʊst ˈprɑbəbəl spid
+reservoir	hệ điều nhiệt	ˈrɛzəˌvwɑr
+gas	chất khí	gæs
+gasify	khí hóa	ˌgæsəfaɪ
+gaseous	thể khí	ˈgæsiəs
+liquid	chất lỏng	ˈlɪkwɪd
+liquid	thuộc thể lỏng	ˈlɪkwɪd
+liquefy	nấu chảy, làm hóa lỏng	ˈlɪkwɪˌfaɪ
+solid	chất rắn	ˈsɑlɪd
+solid	thuộc thể rắn	ˈsɑlɪd
+solidify	làm hóa rắn	səˈlɪdəˌfaɪ
+phase change	sự chuyển pha	feɪz ʧeɪnʤ
+critical point	điểm tới hạn (chuyển pha)	ˈkrɪtɪkəl pɔɪnt
+three-point	điểm ba (điểm tam trùng)	θri-pɔɪnt
+evaporate	bay hơi	ɪˈvæpəˌreɪt
+evaporation	sự bay hơi	ɪˌvæpəˈreɪʃən
+sublimation	sự thăng hoa	ˈsʌblɪmeɪʃən
+sublimate	làm cho thăng hoa	ˈsʌblɪmeɪt
+sublimate	thăng hoa	ˈsʌblɪmeɪt
+vaporize	làm bay hơi	ˈveɪpəˌraɪz
+vaporization	sự bay hơi	veɪpərəˈzeɪʃən
+humid	ẩm ướt	ˈhjumɪd
+absolute humidity	độ ẩm tuyệt đối	ˈæbsəˌlut hjuˈmɪdɪti
+maximum humidity	độ ẩm cực đại	ˈmæksəməm hjuˈmɪdɪti
+relative humidity	độ ẩm tương đối	ˈrɛlətɪv hjuˈmɪdɪti
+fog	sương mù	fɔg
+dew	sương	du
+dew point	điểm sương	du pɔɪnt
+boiling	sự sôi	ˈbɔɪlɪŋ
+boiling point	điểm sôi	ˈbɔɪlɪŋ pɔɪnt
+steam	hơi nước	stim
+condense	làm ngưng tụ, làm đặc lại	kənˈdɛns
+condensation	sự ngưng tụ	ˌkɑndənˈseɪʃən
+freeze	đông đặc	friz
+freezing	sự đông đặc	ˈfrizɪŋ
+freezing point	điểm đông đặc	ˈfrizɪŋ pɔɪnt
+melt	nóng chảy	mɛlt
+melting	sự nóng chảy	ˈmɛltɪŋ
+melting point	điểm nóng chảy	ˈmɛltɪŋ pɔɪnt
+heat	nhiệt lượng	hit
+internal energy	nội năng	ɪnˈtɜrnəl ˈɛnərʤi
+heat capacity	nhiệt dung	hit kəˈpæsɪti
+specific heat (capacity)	nhiệt dung riêng	spəˈsɪfɪk hit (kəˈpæsɪti)
+latent heat of fusion	nhiệt nóng chảy	ˈleɪtənt hit əv ˈfjuʒən
+latent heat of evaporation	nhiệt hóa hơi	ˈleɪtənt hit əv ɪˌvæpəˈreɪʃən
+thermal expansion	sự nở vì nhiệt	ˈθɜrməl ɪkˈspænʃən
+coefficient of thermal expansion	hệ số nở vì nhiệt	ˌkoʊəˈfɪʃənt əv ˈθɜrməl ɪkˈspænʃən
+thermal conduction	sự dẫn nhiệt	ˈθɜrməl kənˈdʌkʃən
+thermal insulation	sự cách nhiệt	ˈθɜrməl ˌɪnsəˈleɪʃən
+convection	sự đối lưu	kənˈvɛkʃən
+radiate	bức xạ	ˈreɪdieɪt
+radiation	sự bức xạ	ˌreɪdiˈeɪʃən
+thermal radiation	bức xạ nhiệt	ˈθɜrməl ˌreɪdiˈeɪʃən
+absorb	hấp thụ	əbˈzɔrb
+absorption	sự hấp thụ	əbˈzɔrpʃən
+thermal equilibrium	trạng thái cân bằng nhiệt	ˈθɜrməl ˌikwəˈlɪbriəm
+ideal gas	khí lý tưởng	aɪˈdil gæs
+real gas	khí thực	riəl gæs
+isothermal process	quá trình đẳng nhiệt	ˌaɪsəˈθɜrməl ˈprɑˌsɛs
+isotherm	đường đẳng nhiệt	ˈaɪsəθɜrm
+isobaric process	quá trình đẳng áp	ˌaɪsəˈbɑrɪk ˈprɑˌsɛs
+isobar	đường đẳng áp	ˈaɪsəbɑr
+isochoric / isometric process	quá trình đẳng tích	ˌaɪsəˈkɔrɪk ˈprɑˌsɛs
+isochor	đường đẳng tích	ˈaɪsəkɔr
+adiabatic process	quá trình đoạn nhiệt	ˌeɪdiəˈbadik ˈprɑˌsɛs
+combustion	sự cháy	kəmˈbʌsʧən
+internal combustion engine	động cơ đốt trong	ɪnˈtɜrnəl kəmˈbʌsʧən ˈɛnʤɪn
+submerge	nhấn chìm	səbˈmɜrʤ
+buoyancy	sự nổi	bɔɪənsi
+buoyant force	lực nổi	ˈbɔɪənt fɔrs
+hydrophilic	có tính dính ướt	ˌhaɪdrəˈfɪlɪk
+hydrophilicity	tính dính ướt	ˌhaɪdrəˈfɪlɪsɪti
+hydrophobic	có tính không dính ướt	ˌhaɪdrəˈfoʊbɪk
+hydrophobicity	tính không dính ướt	ˌhaɪdrəˈfoʊbɪsɪti
+capillary	tính mao dẫn	ˈkæpəˌlɛri
+capillary	ống mao dẫn	ˈkæpəˌlɛri
+surface tension	lực căng mặt ngoài	ˈsɜrfɪs ˈtɛnʃən
+coefficient of surface tension	hệ số căng mặt ngoài	ˌkoʊəˈfɪʃənt əv ˈsɜrfɪs ˈtɛnʃən
+diffuse	khuếch tán	dɪˈfjus
+diffusion	sự khuếch tán	dɪˈfjuʒən
+crystal	tinh thể	ˈkrɪstəl
+lattice	mạng tinh thể	ˈlætɪs
+crystalline solid	chất rắn kết tinh	ˈkrɪstəˌlaɪn ˈsɑlɪd
+amorphous solid	chất rắn vô định hình	əˈmɔrfəs ˈsɑlɪd
+thermocouple	cặp nhiệt điện	ˌθɜrmoʊˈkʌpəl
+electricity	điện học	ɪˌlɛkˈtrɪsɪti
+electrostatics	tĩnh điện học	ɪˌlɛktroʊˈstætɪks
+electrostatic	(thuộc về) tĩnh điện học	ɪˌlɛktroʊˈstætɪk
+(electric) charge	điện tích	(ɪˈlɛktrɪk) ʧɑrʤ
+point charge	điện tích điểm	pɔɪnt ʧɑrʤ
+charge	tích điện	ʧɑrʤ
+discharge	phóng điện	dɪsˈʧɑrʤ
+discharge	sự phóng điện	dɪsˈʧɑrʤ
+corona discharge	sự phóng điện hoa	kəˈroʊnə dɪsˈʧɑrʤ
+spark	tia lửa điện	spɑrk
+charging by contact	sự nhiễm điện do tiếp xúc	ˈʧɑrʤɪŋ baɪ ˈkɑnˌtækt
+charging by rubbing	sự nhiễm điện do cọ xát	ˈʧɑrʤɪŋ baɪ ˈrʌbɪŋ
+charging by induction	sự nhiễm điện do hưởng ứng	ˈʧɑrʤɪŋ baɪ ɪnˈdʌkʃən
+electrostatic induction	sự hưởng ứng tĩnh điện	ɪˌlɛktroʊˈstætɪk ɪnˈdʌkʃən
+positively charged	nhiễm điện dương	ˈpɑzətɪvli ʧɑrʤd
+negatively charged	nhiễm điện âm	ˈnɛgətɪvli ʧɑrʤd
+neutral	trung hòa về điện	ˈnutrəl
+neutralize	làm cho trung hòa về điện	ˈnutrəˌlaɪz
+grounded / earthed	được nối đất	ˈgraʊndɪd, ɜrθt
+conductor	vật dẫn điện	kənˈdʌktər
+insulator	vật cách điện	ˈɪnsəˌleɪtər
+test charge	điện tích thử	tɛst ʧɑrʤ
+electroscope	điện nghiệm	ɪˈlɛktroʊˌskoʊp
+electric force	lực điện	ɪˈlɛktrɪk fɔrs
+repulsive force	lực đẩy	riˈpʌlsɪv fɔrs
+attractive force	lực hút	əˈtræktɪv fɔrs
+electric constant	hằng số điện (k = 8.99  109 N.m2/C2)	ɪˈlɛktrɪk ˈkɑnstənt
+dielectric	chất điện môi	daiˈlɛktrɪk
+dielectric constant	hằng số điện môi	 daiˈlɛktrɪk ˈkɑnstənt
+conservation of charge	sự bảo toàn điện tích	ˌkɑnsərˈveɪʃən əv ʧɑrʤ
+electric field	điện trường	ɪˈlɛktrɪk fild
+line of force	đường sức	laɪn əv fɔrs
+electric field line	đường sức điện	ɪˈlɛktrɪk fild laɪn
+electric field strength	cường độ điện trường	ɪˈlɛktrɪk fild strɛŋkθ
+uniform electric field	điện trường đều	ˈjunəˌfɔrm ɪˈlɛktrɪk fild
+superposition principle	nguyên lý chồng chất	ˌsupərpəˈzɪʃən ˈprɪnsəpəl
+polarization	sự phân cực	ˌpoʊlərəˈzeɪʃən
+electric dipole	lưỡng cực điện	ɪˈlɛktrɪk ˈdaɪˌpoʊl
+electric potential	điện thế	ɪˈlɛktrɪk pəˈtɛnʃəl
+voltage	hiệu điện thế, điện áp	ˈvoʊltɪʤ
+electric potential energy	thế năng tĩnh điện	ɪˈlɛktrɪk pəˈtɛnʃəl ˈɛnərʤi
+equipotential line	đường đẳng thế	ˌɪkwɪ pəˈtɛnʃəl laɪn
+equipotential surface	mặt đẳng thế	ˌɪkwɪ pəˈtɛnʃəl ˈsɜrfɪs
+Faraday cage	lồng Faraday	ˈfærəˌdeɪ keɪʤ
+capacitor	tụ điện	kəˈpæsɪtər
+parallel plate capacitor	tụ điện phẳng	ˈpɛrəˌlɛl pleɪt kəˈpæsɪtər
+cylindrical capacitor	tụ điện trụ	səˈlɪndrɪkəl kəˈpæsɪtər
+spherical capacitor	tụ điện cầu	ˈsfɛrɪkəl kəˈpæsɪtər
+Leyden jar	chai Leyden	ˈlaɪdən ʤɑr
+in series	mắc nối tiếp	ɪn ˈsɪriz
+in parallel	mắc song song	ɪn ˈpɛrəˌlɛl
+capacitance	điện dung	kəˈpæsɪtəns
+break down voltage	hiệu điện thế đánh thủng	breɪk daʊn ˈvoʊltəʤ
+electric current	dòng điện	ɪˈlɛktrɪk ˈkɜrənt
+direct current	dòng điện một chiều	dəˈrɛkt ˈkɜrənt
+drift velocity	vận tốc trôi	drɪft vəˈlɑsɪti
+current intensity	cường độ dòng điện	ˈkɜrənt ɪnˈtɛnsɪti
+resistor	điện trở	rɪˈzɪstər
+resistance	(đại lượng) điện trở	rɪˈzɪstəns
+resistivity	điện trở suất	ˌrɪzɪsˈtɪvɪti
+variable resistor	biến trở	ˈvɛriəbəl rɪˈzɪstər
+rheostat	biến trở	ˈriəˌstat
+configuration	cấu hình, cách mắc	kənˌfɪgjəˈreɪʃən
+resistors in series	điện trở mắc nối tiếp	rɪˈzɪstərz ɪn ˈsɪriz
+resistors in parallel	điện trở mắc song song	rɪˈzɪstərz ɪn ˈpɛrəˌlɛl
+volt	vôn (V, đơn vị hiệu điện thế)	voʊlt
+ampere	ampe (A, đơn vị cường độ dòng điện)	ˈæmˌpir
+voltmeter	vôn kế	ˈvoʊltˌmiːtɚ
+ammeter	ampe kế	ˈæˌmiːtɚ
+galvanometer	điện kế	ˌɡælvəˈnɑmətɚ
+shunt	điện trở phụ	ˈʃʌnt
+switch	khóa đóng ngắt điện	ˈswɪtʃ
+electric source	nguồn điện	ɪˈlɛktrɪk ˈsɔrs
+cell	pin điện	ˈsɛl
+battery	bộ pin	ˈbætɚrɪ
+positive terminal	cực dương	ˈpɑzətɪv ˈtɜrmənəl
+negative terminal	cực âm	ˈnɛgətɪv ˈtɜrmənəl
+electromotive force	suất điện động	ɪˌlektrəˌmotiv ˈfɔrs
+counter electromotive force	suất phản điện	ˈkaʊntər əˌlektrəˌmotiv ˈfɔrs
+internal resistance	điện trở trong	ɪnˈtɜrnəl rɪˈzɪstəns
+short circuit	sự đoản mạch	ʃɔrt ˈsɜrkɪt
+light bulb	bóng đèn	laɪt bʌlb
+heat dissipation	sự tỏa nhiệt (trên điện trở)	hit ˌdɪsɪˈpeɪʃən
+electric power	công suất điện	ɪˈlɛktrɪk ˈpaʊər
+electric circuit	mạch điện	ɪˈlɛktrɪk ˈsɜrkɪt
+node	nút mạng	noʊd
+loop	vòng mạng	lup
+Kirchhoff’s circuit laws	các định luật Kiêcsôp về mạch điện	ˈkɜrkhɔfs ˈsɜrkət lɔz
+superconductivity	hiện tượng siêu dẫn	ˌsupərˌkɑnˌdʌkˈtɪvɪti
+superconductor	vật siêu dẫn	ˈsupərkənˌdʌktər
+electrolysis	hiện tượng điện phân	ɪˌlɛkˈtrɑləsɪs
+electrolyte	chất điện phân	ɪˈlektrəˌlaɪt
+electrode	điện cực	ɪˈlɛktroʊd
+anode	cực dương (anôt)	ˈæˌnoʊd
+cathode	cực âm (catôt)	ˈkæˌθoʊd
+electric arc	hồ quang điện	ɪˈlɛktrɪk ɑrk
+vacuum	chân không	ˈvækjum
+semiconductor	chất bán dẫn	ˌsɛmikənˈdʌktər
+n-type semiconductor	bán dẫn loại n	ɛn-taɪp ˌsɛmikənˈdʌktər
+p-type semiconductor	bán dẫn loại p	pi-taɪp ˌsɛmikənˈdʌktər
+hole	lỗ trống	hoʊl
+diode	điôt	ˈdaɪˌoʊd
+rectify	chỉnh lưu	ˈrɛktɪˌfaɪ
+rectifier circuit	mạch chỉnh lưu	ˈrɛktɪˌfaɪər ˈsɜrkɪt
+transistor	tranzito	trænˈzɪstər
+emittor	cực phát (E)	ɪˈmɪtər
+collector	cực góp (C)	kəˈlɛktər
+base	cực đáy (B)	beɪs
+magnetism	từ học	ˈmægnɪˌtɪzəm
+magnetostatics	tĩnh từ học	ˈmægnɪtoʊˈstætɪks
+magnet	nam châm	ˈmægnɪt
+bar magnet	thanh nam châm	bɑr ˈmægnɪt
+horseshoe magnet	nam châm móng ngựa	ˈhɔrˌsʃu ˈmægnɪt
+North (South) pole	cực Bắc (Nam)	nɔrθ (saʊθ) poʊl
+compass	la bàn	ˈkʌmpəs
+magnetic field	từ trường	mægˈnɛtɪk fild
+magnetic field line	đường sức từ	mægˈnɛtɪk fild laɪn
+magnetic spectrum	từ phổ	mægˈnɛtɪk ˈspɛktrəm
+permeability	độ từ thẩm	pərmiəˈbɪlɪti
+declination	độ từ thiên	ˌdekləˈneɪʃən
+dip	độ từ khuynh	dɪp
+solenoid	ống dây sôlênôit	ˈsɔləˌnoid
+coil	cuộn dây	kɔɪl
+magnetic force	lực từ	mægˈnɛtɪk fɔrs
+left (right)-hand rule	quy tắc bàn tay trái	lɛft (raɪt)-hænd rul
+magnetize	từ hóa	ˌmægnɪtaɪz
+magnetization	sự từ hóa	ˌmægnɪtəˈzeɪʃən
+magnetic domain	miền từ hóa	mægˈnɛtɪk doʊˈmeɪn
+paramagnet	chất thuận từ	ˌpærəˈmægnɪt
+paramagnetic	có tính thuận từ	ˌpærəˌmægˈnɛtɪk
+diamagnet	chất nghịch từ	ˌdaɪəˈmægnɪt
+diamagnetic	có tính nghịch từ	ˌdaɪəmægˈnɛtɪk
+ferromagnet	chất sắt từ	ˌfɛroʊˈmægnɪt
+ferromagnetic	có tính sắt từ	ˌfɛroʊˌmægˈnɛtɪk
+magnetic hysteresis	hiện tượng từ trễ	mægˈnɛtɪk ˌhistəˈrəsis
+induce	kích thích	ɪnˈdus
+induction	sự cảm ứng	ɪnˈdʌkʃən
+electromagnetic induction	cảm ứng điện từ	ɪˌlɛktroʊmægˈnɛtɪk ɪnˈdʌkʃən
+magnetic flux	từ thông	mægˈnɛtɪk flʌks
+induced electromotive force	suất điện động cảm ứng	ɪnˈdust ɪˌlektrəˌmotiv ˈfɔrs
+induced current	dòng điện cảm ứng	ɪnˈdust ˈkɜrənt
+self-induction	hiện tượng tự cảm	sɛlf-ɪnˈdʌkʃən
+inductance	độ tự cảm	ɪnˈdʌktəns
+inductor	cuộn cảm	ɪnˈdʌktər
+eddy current	dòng điện Fucô	ˈɛdi ˈkɜrənt
+alternating current (a.c.)	dòng điện xoay chiều	ˈɔltərˌneɪtɪŋ ˈkɜrənt (eɪ.si.)
+instantaneous voltage	hiệu điện thế tức thời	ˌɪnstənˈtæniəs ˈvoʊltɪʤ
+instantaneous current	dòng điện tức thời	ˌɪnstənˈtæniəs ˈkɜrənt
+root-mean-square voltage	hiệu điện thế hiệu dụng	rut-min-skwɛr ˈvoʊltɪʤ
+root-mean-square current	dòng điện hiệu dụng	rut-min-skwɛr ˈkɜrənt
+voltage amplitude	biên độ hiệu điện thế	ˈvoʊltəʤ ˈæmpləˌtud
+current amplitude	biên độ dòng điện	ˈkɜrənt ˈæmpləˌtud
+driving angular frequency	tần số góc của dòng điện xoay chiều	ˈdraɪvɪŋ ˈæŋgjələr ˈfrikwənsi
+natural angular frequency	tần số dao động riêng	ˈnæʧərəl ˈæŋgjələr ˈfrikwənsi
+resistive	có tính trở kháng	 rɪˈzɪstɪv
+resistance	trở kháng	rɪˈzɪstəns
+inductive	có tính cảm kháng	ɪnˈdʌktɪv
+inductive reactance	cảm kháng	ɪnˈdʌktɪv riˈæktəns
+capacitive	có tính dung kháng	kəˈpæsətɪv
+capacitive reactance	dung kháng	kəˈpæsətɪv riˈæktəns
+impedance	tổng trở	ɪmˈpidəns
+series RLC circuit	mạch RLC nối tiếp	ˈsɪriz ɑr-ɛl-si ˈsɜrkɪt
+phasor	vectơ quay	ˈfeɪzər
+voltage phasor	vectơ quay biểu diễn hiệu điện thế	ˈvoʊltəʤ ˈfeɪzər
+current phasor	vectơ quay biểu diễn dòng điện	ˈkɜrənt ˈfeɪzər
+phasor diagram	giản đồ vectơ quay	ˈfeɪzər ˈdaɪəˌgræm
+ahead of	sớm pha	əˈhɛd əv
+behind	trễ pha	bɪˈhaɪnd
+phase constant	độ lệch pha giữa u và i	feɪz ˈkɑnstənt
+power factor	hệ số công suất	ˈpaʊər ˈfæktər
+instantaneous power	công suất tức thời	ˌɪnstənˈtæniəs ˈpaʊər
+average power	công suất trung bình	ˈævərɪʤ ˈpaʊər
+transformer	máy biến thế	trænˈsfɔrmər
+primary (coil)	cuộn sơ cấp	ˈpraɪˌmɛri (kɔɪl)
+secondary (coil)	cuộn thứ cấp	ˈsɛkənˌdɛri (kɔɪl)
+electromagnetic oscillation	dao động điện từ	ɪˌlɛktroʊmægˈnɛtɪk ˌɑsəˈleɪʃən
+electromagnetic wave	sóng điện từ	ɪˌlɛktroʊmægˈnɛtɪk weɪv
+electromagnetic field	trường điện từ	ɪˌlɛktroʊmægˈnɛtɪk fild
+electromagnetic radiation	bức xạ điện từ	ɪˌlɛktroʊmægˈnɛtɪk ˌreɪdiˈeɪʃən
+LC oscillator	mạch dao động LC	ɛl-si ˈɑsəˌleɪtər
+antenna	ăngten	ænˈtɛnə
+amplitude modulation (AM)	sự biến điệu biên độ	ˈæmpləˌtud ˌmɑʤəˈleɪʃən (æm)
+frequency modulation (FM)	sự biến điệu tần số	ˈfrikwənsi ˌmɑʤəˈleɪʃən (ˈɛˈfɛm)
+very high frequency (VHF)	tần số rất cao	ˈvɛri haɪ ˈfrikwənsi (vi-eɪʧ-ɛf)
+ultra-high frequency (UHF)	tần số siêu cao	ˈʌltrə-haɪ ˈfrikwənsi (ju-eɪʧ-ɛf)
+optics	quang học	ˈɑptɪks
+geometrical optics	quang hình học	ˌʤiəˈmɛtrɪkəl ˈɑptɪks
+physical optics	quang lý học	ˈfɪzɪkəl ˈɑptɪks
+quantum optics	quang học lượng tử	ˈkwɑntəm ˈɑptɪks
+non-linear optics	quang học phi tuyến	nɑn ˈlɪniər ˈɑptɪks
+light ray	tia sáng	laɪt reɪ
+light beam	chùm sáng	laɪt bim
+converge	hội tụ	kənˈvɜrʤ
+converging	(có tính) hội tụ	kənˈvɜrʤɪŋ
+diverge	phân kỳ	daɪˈvɜrʤ
+diverging	(có tính) phân kỳ	daɪˈvɜrʤɪŋ
+transparent	trong suốt	trænˈspɛrənt
+opaque	mờ đục	oʊˈpeɪk
+reflect	phản xạ	rɪˈflɛkt
+reflection	sự phản xạ	rɪˈflɛkʃən
+specular reflection	phản xạ gương	ˈspekjulər rɪˈflɛkʃən
+diffuse reflection	phản xạ khuếch tán	dɪˈfjus rɪˈflɛkʃən
+refract	khúc xạ	ˌrɪˈfrækt
+refraction	sự khúc xạ	ˌrɪˈfrækʃən
+interface	mặt phân cách hai môi trường	ˈɪntərˌfeɪs
+normal	pháp tuyến	ˈnɔrməl
+incident ray	tia tới	ˈɪnsɪdənt reɪ
+reflected ray	tia phản xạ	rɪˈflɛktəd reɪ
+refracted ray	tia khúc xạ	rɪˈfræktəd reɪ
+angle of incidence	góc tới	ˈæŋgəl əv ˈɪnsədəns
+angle of reflection	góc phản xạ	ˈæŋgəl əv rɪˈflɛkʃən
+angle of refraction	góc khúc xạ	ˈæŋgəl əv ˌrɪˈfrækʃən
+law of reflection	định luật phản xạ ánh sáng	lɔ əv rɪˈflɛkʃən
+law of refraction	định luật khúc xạ ánh sáng	lɔ əv ˌrɪˈfrækʃən
+index of refraction	chiết suất	ˈɪndɛks əv ˌrɪˈfrækʃən
+refractive index	chiết suất	rɪˈfræktɪv ˈɪndɛks
+total internal reflection	hiện tượng phản xạ toàn phần	ˈtoʊtəl ɪnˈtɜrnəl rɪˈflɛkʃən
+critical angle	góc tới hạn (phản xạ toàn phần)	ˈkrɪtɪkəl ˈæŋgəl
+denser medium	môi trường chiết quang hơn	ˈdɛnsər ˈmidiəm
+rarer medium	môi trường kém chiết quang	ˈrɛrər ˈmidiəm
+mirage	ảo tượng	mɪˈrɑʒ
+optical fiber	sợi quang học	ˈɑptɪkəl ˈfaɪbər
+prism	lăng kính	ˈprɪzəm
+plane mirror	gương phẳng	pleɪn ˈmɪrər
+spherical mirror	gương cầu	ˈsfɛrɪkəl ˈmɪrər
+concave mirror	gương cầu lõm	kɑnˈkeɪv ˈmɪrər
+convex mirror	gương cầu lồi	kənˈvɛks ˈmɪrər
+center of curvature	tâm gương	ˈsɛntər əv ˈkɜrvəʧər
+principal axis	trục chính	ˈprɪnsəpəl ˈæksɪs
+focus	hội tụ, tập trung	ˈfoʊkəs
+focus (pl. foci) / focal point	tiêu điểm	ˈfoʊkəs (ˈfoʊsaɪ, ˈfoʊkaɪ)
+focal point	tiêu điểm	ˈfoʊkəl pɔɪnt
+focal length	tiêu cự	ˈfoʊkəl lɛŋkθ
+field of view	thị trường	fild əv vju
+object distance	khoảng cách vật	ˈɑbʤɛkt ˈdɪstəns
+image distance	khoảng cách ảnh	ˈɪmɪʤ ˈdɪstəns
+(lateral) magnification	độ phóng đại	(ˈlætərəl) ˌmægnəfɪˈkeɪʃən
+real object	vật thật	riəl ˈɑbʤɛkt
+real image	ảnh thật	riəl ˈɪmɪʤ
+virtual object	vật ảo	ˈvɜrʧuəl ˈɑbʤɛkt
+virtual image	ảnh ảo	ˈvɜrʧuəl ˈɪmɪʤ
+ray diagram	hình vẽ các tia sáng	reɪ ˈdaɪəˌgræm
+lens	thấu kính	lɛnz
+thin lens	thấu kính mỏng	θɪn lɛnz
+converging lens (convex lens)	thấu kính hội tụ (thấu kính lồi)	kənˈvɜrʤɪŋ lɛnz (kənˈvɛks lɛnz)
+diverging lens (concave lens)	thấu kính phân kỳ (thấu kính lõm)	daɪˈvɜrʤɪŋ lɛnz (kɑnˈkeɪv lɛnz)
+lens maker’s equation	công thức tiêu cự thấu kính	lɛnz ˈmeɪkərz ɪˈkweɪʒən
+cornea	giác mạc	ˈkɔrniə
+iris	mống mắt (tròng đen)	ˈaɪrəs
+pupil	con ngươi	ˈpjupəl
+lens	thủy tinh thể	lɛnz
+vitreous fluid	dịch thủy tinh	ˈvɪtriəs ˈfluɪd
+retina	võng mạc	ˈrɛtɪnə
+fovea	điểm vàng	ˈfoʊviə
+blind spot	điểm mù	blaɪnd spɑt
+resolving power	năng suất phân ly	riˈzɑlvɪŋ ˈpaʊər
+accommodation	sự điều tiết	əˌkɑməˈdeɪʃən
+near point	điểm cực cận	nɪr pɔɪnt
+far point	điểm cực viễn	fɑr pɔɪnt
+sharp	rõ nét	ʃɑrp
+fuzzy	nhòe	ˈfʌzi
+nearsightedness; myopia	tật cận thị	ˈnirˌsaɪtɪdnəs ; maɪˈoʊpiə
+nearsighted; myopic	có tật cận thị	ˈnirˌsaɪtɪd ; maɪˈɑpɪk
+farsightedness; hyperopia	tật viễn thị	ˌfɑrˈsaɪtɪdnəs ; ˌhaɪpəˈroʊpiə
+farsighted; hyperopic	có tật viễn thị	ˈfɑrˈsaɪtəd ; ˌhaɪpəˈroʊpɪk
+optical instrument	quang cụ	ˈɑptɪkəl ˈɪnstrəmənt
+angular magnification	số bội giác	ˈæŋgjələr ˌmægnəfəˈkeɪʃən
+magnifying power	số bội giác	ˈmægnəˌfaɪɪŋ ˈpaʊər
+magnifier; magnifying glass	kính lúp	ˈmægnəˌfaɪər ; ˈmægnəˌfaɪɪŋ glæs
+microscope	kính hiển vi	ˈmaɪkrəˌskoʊp
+telescope	kính thiên văn	ˈtɛləˌskoʊp
+objective	vật kính	əbˈʤɛktɪv
+eyepiece	thị kính	ˈaɪˌpis
+aberration	hiện tượng quang sai	ˌæbəˈreɪʃən
+spherical aberration	hiện tượng cầu sai	ˈsfɛrɪkəl ˌæbəˈreɪʃən
+chromatic aberration	hiện tượng sắc sai	kroʊˈmatik ˌæbəˈreɪʃən
+wave optics	quang học sóng	weɪv ˈɑptɪks
+light wave	sóng ánh sáng	laɪt weɪv
+disperse	phân tán, tán sắc	dɪˈspɜrs
+dispersion of light	sự tán sắc ánh sáng	dɪˈspɜrʒən əv laɪt
+white light	ánh sáng trắng	waɪt laɪt
+monochromatic light	ánh sáng đơn sắc	ˌmɑnəkroʊˈmætɪk laɪt
+visible light	ánh sáng khả kiến	ˈvɪzəbəl laɪt
+rainbow	cầu vồng	ˈreɪnˌboʊ
+interference of light	sự giao thoa ánh sáng	ˌɪntərˈfɪrəns əv laɪt
+double-slit interference	giao thoa hai khe hẹp (khe Young)	ˈdʌbəl-slɪt ˌɪntərˈfɪrəns
+(interference) fringe	vân giao thoa	(ˌɪntərˈfɪrəns) frɪnʤ
+bright fringe	vân sáng	braɪt frɪnʤ
+dark fringe	vân tối	dɑrk frɪnʤ
+central maximum	vân sáng trung tâm	ˈsɛntrəl ˈmæksəməm
+first-order bright fringe	vân sáng bậc 1	fɜrst-ˈɔrdər braɪt frɪnʤ
+interference pattern	hình ảnh giao thoa	ˌɪntərˈfɪrəns ˈpætərn
+thin film interference	giao thoa bản mỏng	θɪn fɪlm ˌɪntərˈfɪrəns
+interferometer	giao thoa kế	ˌɪntərfəˈrɑmətər
+phase difference	độ lệch pha	feɪz ˈdɪfərəns
+optical path length	quang lộ	ˈɑptɪkəl pæθ lɛŋkθ
+optical path length difference	hiệu quang lộ	ˈɑptɪkəl pæθ lɛŋkθ ˈdɪfərəns
+diffraction	sự nhiễu xạ	dɪˈfrækʃən
+diffraction of light	nhiễu xạ ánh sáng	dɪˈfrækʃən əv laɪt
+diffraction grating	cách tử nhiễu xạ	dɪˈfrækʃən ˈgreɪtɪŋ
+spectrum (pl. spectra)	quang phổ	ˈspɛktrəm (ˈspɛktrə)
+spectroscope	máy quang phổ	spɛkˈtrɑˌskoʊp
+spectroscopy	quang phổ học	spɛkˈtrɑskəpi
+continuous spectrum	quang phổ liên tục	kənˈtɪnjuəs ˈspɛktrəm
+line spectrum	quang phổ vạch	laɪn ˈspɛktrəm
+emission spectrum	quang phổ phát xạ	ɪˈmɪʃən ˈspɛktrəm
+absorption spectrum	quang phổ hấp thụ	əbˈzɔrpʃən ˈspɛktrəm
+infrared radiation	bức xạ hồng ngoại	ˌɪnfrəˈrɛd ˌreɪdiˈeɪʃən
+ultraviolet radiation	bức xạ tử ngoại	ˌʌltrəˈvaɪəlɪt ˌreɪdiˈeɪʃən
+X-ray	tia X	ˈɛksˌreɪ
+quantum optics	quang lượng tử	ˈkwɑntəm ˈɑptɪks
+quantum (pl. quanta)	lượng tử	ˈkwɑntəm (ˈkwɑntɑ)
+quantize	lượng tử hóa	ˈkwɑntaɪz
+quantization	sự lượng tử hóa	kwɑntaɪˈzeɪʃən
+photon	lượng tử ánh sáng	ˈfoʊˌtɑn
+photoelectric effect	hiệu ứng quang điện	ˌfoʊtoʊɪˈlɛktrɪk ɪˈfɛkt 
+photoelectron	electron quang điện	ˌfoʊtoʊɪˈlɛktron
+photoelectric current	dòng quang điện	ˌfoʊtoʊɪˈlɛktrɪk ˈkɜrənt
+photoelectric cell	pin quang điện	ˌfoʊtoʊɪˈlɛktrɪk sɛl
+stopping potential	điện thế hãm	ˈstɑpɪŋ pəˈtɛnʃəl
+threshold frequency	tần số ngưỡng	ˈθrɛˌʃoʊld ˈfrikwənsi  
+threshold wavelength	bước sóng ngưỡng (giới hạn quang điện)	ˈθrɛˌʃoʊld ˈweɪˌvlɛŋθ
+work function	công thoát	wɜrk ˈfʌŋkʃən
+photoelectric equation	phương trình hiệu ứng quang điện	ˌfoʊtoʊɪˈlɛktrɪk ɪˈkweɪʒən
+inner photoelectric effect	hiệu ứng quang điện trong	ˈɪnər ˌfoʊtoʊɪˈlɛktrɪk ɪˈfɛkt
+photoconductor	chất quang dẫn	ˌfoʊtoʊkənˈdʌktər
+photoconductivity	tính quang dẫn	ˌfoʊtoʊkənˈdʌktɪvɪti
+photoconductive material	vật liệu quang dẫn	ˌfoʊtoʊkənˈdʌktɪv məˈtɪriəl
+photoresistor	quang điện trở	ˌfoʊtoʊrɪˈzɪstər
+luminesce	phát quang	ˌluməˈnɛs
+luminescence	sự phát quang	ˌluməˈnɛsəns
+photoluminescence	hiện tượng quang – phát quang	ˌfoʊtoʊˌluməˈnɛsəns
+luminescent	có tính phát quang	ˌluməˈnɛsənt
+fluoresce	phát huỳnh quang	ˌflʊˈrɛs
+fluorescence	sự phát huỳnh quang	ˌflʊˈrɛsəns
+fluorescent	có tính huỳnh quang	ˌflʊˈrɛsənt
+Compton scattering	tán xạ Compton	ˈkɑmptən ˈskætərɪŋ
+Compton shift	độ dời Compton	ˈkɑmptən ʃɪft
+Bohr’s radius	bán kính Bohr	bɔrz ˈreɪdiəs
+stationary orbit	quỹ đạo dừng	ˈsteɪʃəˌnɛri ˈɔrbət
+stationary state	trạng thái dừng	ˈsteɪʃəˌnɛri steɪt
+nuclear physics	vật lý hạt nhân	ˈnukliər ˈfɪzɪks
+atomic nucleus (pl. nuclei)	hạt nhân nguyên tử	əˈtɑmɪk ˈnukliəs (ˈnukliˌaɪ)
+proton	hạt prôton	ˈproʊˌtɑn
+neutron	hạt nơtron	ˈnuˌtrɑn
+nucleon	nuclôn	ˈnukliˌɑn
+neutrino	hạt nơtrinô	nuˈtrinoʊ
+mass number	số khối (A)	mæs ˈnʌmbər
+atomic number	số hiệu nguyên tử (Z)	əˈtɑmɪk ˈnʌmbər
+mass defect	độ hụt khối	mæs ˈdifɛkt
+nuclear binding energy	năng lượng liên kết hạt nhân	ˈnukliər ˈbaɪndɪŋ ˈɛnərʤi
+isotope	đồng vị	ˈaɪsəˌtoʊp
+atomic mass unit	đơn vị khối lượng nguyên tử	əˈtɑmɪk mæs ˈjunɪt
+radioactive	có tính phóng xạ	ˌreɪdioʊˈæktɪv
+radioactivity	hiện tượng phóng xạ, hoạt độ phóng xạ	ˈreɪdioʊækˈtɪvɪti
+radioactive decay	sự phân rã phóng xạ	ˌreɪdioʊˈæktɪv dəˈkeɪ
+radioactive decay constant	hằng số phóng xạ	ˌreɪdioʊˈæktɪv dəˈkeɪ ˈkɑnstənt
+radioactive radiation	bức xạ phóng xạ	ˌreɪdioʊˈæktɪv ˌreɪdiˈeɪʃən
+radioactive element	nguyên tố phóng xạ	ˌreɪdioʊˈæktɪv ˈɛləmənt
+α radioactive	có tính phóng xạ α	ˈælfə ˌreɪdioʊˈæktɪv
+α radioactivity	sự phóng xạ α	ˈælfə ˈreɪdioʊækˈtɪvɪti
+radiocarbon dating	phương pháp xác định niên đại cổ vật dựa vào carbon phóng xạ	ˈreɪdiˌoʊ ˈkɑrbən ˈdeɪtɪŋ
+half-life	chu kỳ bán rã	hæf-laɪf
+nuclear fission	sự phân hạch hạt nhân	ˈnukliər ˈfɪʃən
+fission reaction	phản ứng phân hạch	ˈfɪʃən riˈækʃən
+fission fragment	mảnh vỡ phân hạch	ˈfɪʃən ˈfrægmənt
+fission energy	năng lượng phân hạch	ˈfɪʃən ˈɛnərʤi
+slow neutron	nơtron chậm	sloʊ ˈnuˌtrɑn
+chain reaction	phản ứng dây chuyền	ʧeɪn riˈækʃən
+nuclear fusion	sự tổng hợp hạt nhân	ˈnukliər ˈfjuʒən
+fusion energy	năng lượng nhiệt hạch	ˈfjuʒən ˈɛnərʤi
+nuclear reaction	phản ứng hạt nhân	ˈnukliər riˈækʃən
+nuclear reactor	lò phản ứng hạt nhân	ˈnukliər riˈæktər
+nuclear power plant	nhà máy điện hạt nhân	ˈnukliər ˈpaʊər plænt
+special relativity	thuyết tương đối hẹp	ˈspɛʃəl ˌrɛləˈtɪvɪti
+general relativity	thuyết tương đối tổng quát	ˈʤɛnərəl ˌrɛləˈtɪvɪti
+postulate	tiên đề	ˈpɑsʧəleɪt
+rest mass	khối lượng nghỉ	rɛst mæs
+time dilation	sự trôi chậm của thời gian	taɪm daɪˈleɪʃən
+length contraction	sự co ngắn chiều dài	lɛŋkθ kənˈtrækʃən
+Lorentz transformation	phép biến đổi Lorentz	ˈlɔrɪnts ˌtrænsfərˈmeɪʃən
+mass-energy equivalence	tương đương khối lượng – năng lượng	mæs-ˈɛnərʤi ɪˈkwɪvələns
+twin paradox	nghịch lý sinh đôi	twɪn ˈpɛrəˌdɑks
+correspondent principle	nguyên lý tương ứng	ˌkɔrəˈspɑndənt ˈprɪnsəpəl
+principle of equivalence	nguyên lý tương đương	ˈprɪnsəpəl əv ɪˈkwɪvələns
+bending of light by gravity	sự bẻ cong tia sáng do lực hấp dẫn	ˈbɛndɪŋ əv laɪt baɪ ˈgrævəti
+gravitational lens	thấu kính hấp dẫn	ˌgrævɪˈteɪʃənəl lɛnz
+gravitational redshift	sự dịch chuyển về phía đỏ do hấp dẫn	ˌgrævɪˈteɪʃənəl rɛdʃɪft
+astronomy	thiên văn học	əˈstrɑnəmi
+astronomical	(thuộc về) thiên văn học	ˌæstrəˈnɑmɪkəl
+astronomer	nhà thiên văn	əˈstrɑnəmər
+astronaut	phi hành gia	ˈæstrəˌnɑt
+astrophysics	thiên văn vật lý	ˌæstroʊˈfɪzɪks
+astronomical unit	đơn vị thiên văn	ˌæstrəˈnɑmɪkəl ˈjunɪt
+light year	năm ánh sáng	laɪt jɪr
+galaxy	thiên hà	ˈgæləksi
+the Milky Way	Ngân hà	ðə ˈmɪlki weɪ
+celestial body	thiên thể	səˈlɛsʧəl ˈbɑdi
+celestial sphere	thiên cầu	səˈlɛsʧəl sfɪr
+zenith	thiên đỉnh	ˈzinɪθ
+horizon	chân trời	həˈraɪzən
+diurnal motion	nhật động	daɪˈɜrnəl ˈmoʊʃən
+star	ngôi sao	stɑr
+nebula	tinh vân	ˈnɛbjələ
+Sun	Mặt trời	sʌn
+sun spot	vết đen mặt trời	sʌn spɑt
+corona	vành nhật hoa	kəˈroʊnə
+chromosphere	sắc quyển	ˈkroʊməˌsfir
+solar wind	gió mặt trời	ˈsoʊlər wɪnd
+solar energy	năng lượng mặt trời	ˈsoʊlər ˈɛnərʤi
+solar system	hệ mặt trời	ˈsoʊlər ˈsɪstəm
+Mercury	Thủy tinh	ˈmɜrkjəri
+Venus	Kim tinh	ˈvinəs
+Earth	Trái đất	ɜrθ
+Mars	Hỏa tinh	mɑrz
+Jupiter	Mộc tinh	ˈʤupɪtər
+Saturn	Thổ tinh	ˈsætərn
+Uranus	Thiên vương tinh	ˈjurənəs
+Neptune	Hải vương tinh	ˈnɛptun
+planet	hành tinh	ˈplænɪt
+inner planets	các hành tinh trong	ˈɪnər ˈplænɪts
+outer planets	các hành tinh ngoài	ˈaʊtər ˈplænɪts
+moon	mặt trăng	mun
+eclipse	thiên thực	ɪˈklɪps
+umbra	vùng bóng tối	ˈʌmbrə
+penumbra	vùng nửa tối	pɪˈnʌmbrə
+solar eclipse	nhật thực	ˈsoʊlər ɪˈklɪps
+lunar eclipse	nguyệt thực	ˈlunər ɪˈklɪps
+total solar eclipse	nhật thực toàn phần	ˈtoʊtəl ˈsoʊlər ɪˈklɪps
+total lunar eclipse	nguyệt thực toàn phần	ˈtoʊtəl ˈlunər ɪˈklɪps
+partial solar eclipse	nhật thực một phần	ˈpɑrʃəl ˈsoʊlər ɪˈklɪps
+partial lunar eclipse	nguyệt thực một phần	ˈpɑrʃəl ˈlunər ɪˈklɪps
+annual solar eclipse	nhật thực hình khuyên	ˈænjuəl ˈsoʊlər ɪˈklɪps 
+moon phase	kỳ trăng	mun feɪz
+new moon	trăng mới	nju mun
+full moon	trăng tròn	fʊl mun
+shooting star	sao băng	ˈʃutɪŋ stɑr
+asteroid	thiên thạch	ˈæstəˌrɔɪd
+meteoroid	mảnh thiên thạch	ˈmitiəˌrɔɪd
+meteor	sao băng	ˈmitiər
+meteor shower	mưa sao băng	ˈmitiər ˈʃaʊər
+meteorite	vẫn thạch	ˈmitiɔˌraɪt
+comet	sao chổi	ˈkɑmət
+dwarf	sao lùn	dwɔrf
+white dwarf	sao lùn trắng	waɪt dwɔrf
+giant star	sao kềnh	ˈʤaɪənt stɑr
+red giant	sao kềnh đỏ	rɛd ˈʤaɪənt
+binary star	sao đôi	ˈbaɪnəri stɑr
+nova (pl. novae)	vụ nổ sao mới	ˈnoʊvə ; ˈnoʊvi
+supernova (pl. supernovae)	vụ nổ sao siêu mới	ˌsupərˈnoʊvə ; ˌsupərˈnoʊvi 
+neutron star	sao nơtron	ˈnuˌtrɑn stɑr
+pulsar	sao xung (punxa)	ˈpʊlsər
+black hole	lỗ đen	blæk hoʊl
+event horizon	chân trời sự kiện	ɪˈvɛnt həˈraɪzən
+black-hole singularity	điểm kỳ dị lỗ đen	blæk hoʊl ˌsɪŋgjəˈlærɪti
